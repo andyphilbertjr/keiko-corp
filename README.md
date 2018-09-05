@@ -1,2 +1,2 @@
 # keiko-corp
-Performance Optimization challenge
+Performance Optimization assignment
